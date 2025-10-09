@@ -1,0 +1,5 @@
+Rust is a systems programming language focused on safety, speed, and concurrency.
+
+It is syntactically similar to C++, but can guarantee memory safety by using a borrow checker.
+
+Rust is used in many production systems and has a strong, growing developer community.
