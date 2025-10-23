@@ -32,18 +32,6 @@ Highlights:
 - `06_Ownership/` — Ownership, moves, clones, borrowing
 - `07_Slices/` — String and array slices
 - `08_Structs/` — Structs, methods, associated functions
-- `09_Enums/` — Enums and pattern matching
-- `10_Generics/` — Generic types and functions
-- `11_Option_and_Result_Enums/` — Idiomatic error handling primitives
-- `12_Vectors/` — Dynamic arrays, iteration patterns
-- `13_Strings/` — UTF-8 strings, operations, pitfalls
-- `14_HashMaps/` — Key-value storage, ownership nuances
-- `15_Error_Handling/` — `Result`, `?`, custom errors
-- `16_Traits/` — Trait bounds, default methods, object safety
-- `17_Lifetimes/` — Borrow checker mental model, lifetime annotations
-- `18_Closures/` — Captures, `Fn` traits, practical usage
-- `19_Iterators/` — Iterator adapters, lazy evaluation, performance
-- `20_Testing_in_Development/` — Unit, integration tests; dev workflow
 
 > Each topic directory contains its own Cargo project you can run. Many topics also include multiple binaries under `src/bin/` for focused examples.
 
