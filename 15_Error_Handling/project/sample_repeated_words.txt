@@ -1,0 +1,5 @@
+apple banana apple orange banana apple fruit banana fruit apple
+
+Fruit is healthy. Apple and banana are common fruits.
+
+Apple juice is tasty. Banana smoothies are refreshing. Apple, banana, apple.

@@ -1,0 +1,5 @@
+Rust is a systems programming language that runs fast, prevents segfaults, and guarantees thread safety.
+
+It is loved by developers around the world for its strong typing and memory safety without a garbage collector.
+
+This file contains simple text for testing line, word, and character count.
